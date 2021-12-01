@@ -1,2 +1,2 @@
 # CrownDeliverance
-A game I worked on, I made the figth management, character management, save and 
+A game I worked on. I made the figth management, character management and save.
